@@ -19,6 +19,12 @@ The notebook also uses `pandas`, `numpy`, `matplotlib`, `scikit-learn`,
 `tensorflow`, `seaborn`, and `Pillow`. These are normally available in Google
 Colab; install any missing packages with `pip`.
 
+**THE data/RAVDESS/ AND data/CREMA/ FOLDERS CONTAIN ONLY 10 SAMPLE .wav FILES EACH DUE TO GitHub FILE LIMIT CONSTRAINTS.**
+
+**Download the entire RAVDESS dataset (1440 audio files) from https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio**
+
+**Download the entire CREMA-D dataset (5462 audio files) from https://www.kaggle.com/datasets/ejlok1/cremad**
+
 ## Mount Google Drive
 
 The notebook reads data from and saves outputs to Google Drive. Mount Drive and
