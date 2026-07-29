@@ -23,7 +23,7 @@ Colab; install any missing packages with `pip`.
 
 **Download the entire RAVDESS dataset (1440 audio files) from https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio**
 
-**Download the entire CREMA-D dataset (5462 audio files) from https://www.kaggle.com/datasets/ejlok1/cremad**
+**Download the entire CREMA-D dataset (5000+ audio files) from https://www.kaggle.com/datasets/ejlok1/cremad**
 
 ## Mount Google Drive
 
